@@ -8,4 +8,5 @@
 
 
 ## Imagen de mi APP
-![image](https://user-images.githubusercontent.com/57696767/130390688-76acaeca-4fcc-4499-b8d4-6ff9906366c4.png)
+![image](https://user-images.githubusercontent.com/57696767/130390768-ffd7bc4a-0e1c-42bf-bf02-070db2fd60c4.png)
+
