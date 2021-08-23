@@ -4,8 +4,10 @@
 
 
 ## Lo que realizar la APP:
-### 1. Lista las Criptomonedas
-### 2. Filtrar por letra
+```
+- Lista las Criptomonedas
+- Filtrar por letra
+```
 
 
 ## Imagen de mi APP
